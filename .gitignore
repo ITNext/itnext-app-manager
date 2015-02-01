@@ -1,3 +1,11 @@
+# Mozilla
+xulrunner/
+
+# Add-ons
+*.xpi
+*.zip
+*.jar
+
 # Logs
 logs
 *.log
